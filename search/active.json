@@ -1,38 +1,18 @@
 [
   {
-    "question": "他是誰?",
-    "conditions": ["他是我爸爸", "他是我媽媽"],
-    "startTime": "2019-12-31T00:00:00Z",
-    "endTime": "2023-12-31T00:00:00Z",
-    "image": "https://i.imgur.com/3QXQYRt.jpg",
-    "tags": ["do thing right", "do right thing"],
-    "conditionId": "0x83d83887a31f5834ee7d86de07c08c11b7e1428f63e845f05f0dfb1d4453bf31"
-  },
-  {
-    "question": "他是誰?",
-    "conditions": ["他是我爸爸", "他是我媽媽"],
-    "startTime": "2019-12-31T00:00:00Z",
-    "endTime": "2023-12-31T00:00:00Z",
-    "image": "https://i.imgur.com/3QXQYRt.jpg",
-    "tags": ["do thing right", "do right thing"],
-    "conditionId": "0x83d83887a31f5834ee7d86de07c08c11b7e1428f63e845f05f0dfb1d4453bf31"
-  },
-  {
-    "question": "他是誰?",
-    "conditions": ["他是我爸爸", "他是我媽媽"],
-    "startTime": "2019-12-31T00:00:00Z",
-    "endTime": "2023-12-31T00:00:00Z",
-    "image": "https://i.imgur.com/3QXQYRt.jpg",
-    "tags": ["do thing right", "do right thing"],
-    "conditionId": "0x83d83887a31f5834ee7d86de07c08c11b7e1428f63e845f05f0dfb1d4453bf31"
-  },
-  {
-    "question": "他是誰?",
-    "conditions": ["他是我爸爸", "他是我媽媽"],
-    "startTime": "2019-12-31T00:00:00Z",
-    "endTime": "2023-12-31T00:00:00Z",
-    "image": "https://i.imgur.com/3QXQYRt.jpg",
-    "tags": ["do thing right", "do right thing"],
-    "conditionId": "0x83d83887a31f5834ee7d86de07c08c11b7e1428f63e845f05f0dfb1d4453bf31"
+    "question": "2024 總統大選, 你會投給誰?",
+    "conditions": [
+      "科淫配",
+      "lie硝配",
+      "猴糠配"
+    ],
+    "startTime": "2019-11-27T00:00:00Z",
+    "endTime": "2024-01-14T00:00:00Z",
+    "image": "https://media.istockphoto.com/id/1166171401/zh/%E5%90%91%E9%87%8F/%E8%87%BA%E7%81%A3%E5%90%91%E9%87%8F%E6%A8%99%E8%AA%8C%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97.jpg?s=612x612&w=0&k=20&c=PLJ_JW9yiesFxxMZY7aDI13HyIpZ57ceV8DLAe9S2Kk=",
+    "tags": [
+      "do thing right",
+      "do right thing"
+    ],
+    "conditionId": "0xb8d7da5f80f00f7e3124d840b1cea789ce618c7ee580d302eb326b8802ccfa34"
   }
 ]
